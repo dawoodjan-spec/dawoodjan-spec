@@ -15,9 +15,8 @@
 
 - 🎓 Software Engineering Student  
 - ☁️ Passionate about **Cloud & DevOps Engineering**
-- 🚀 Preparing for **CKA & KCNA Certifications**
+- 🚀 Preparing for **CKA & KCNA and AWS CCP Certifications**
 - 🔧 Skilled in **Containerization & Orchestration**
-- 🌍 Goal: Work as a **DevOps Engineer internationally**
 
 ---
 
@@ -66,10 +65,8 @@
 
 ## 🎯 2026 Goals
 
-- ✅ Crack **CKA Certification**
+- ✅ Crack **CKA, KCNA AND AWS CCP Certifications**
 - ✅ Earn AWS Certifications
-- 🌍 Get an **international DevOps role**
-- 💼 Build strong freelance presence
 
 ---
 
