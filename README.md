@@ -1,31 +1,41 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;AWS+Learner;Kubernetes+Enthusiast;Future+SRE&center=true&width=500&height=50">
+</p>
+
 <h1 align="center">Hi 👋, I'm Dawood Jan</h1>
-<h3 align="center">Aspiring DevOps Engineer | AWS & Kubernetes Learner</h3>
+<h3 align="center">Aspiring DevOps Engineer | AWS ☁️ | Kubernetes ⚙️</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;AWS+Learner;Kubernetes+Enthusiast;Future+SRE&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering Student  
-- ☁️ Passionate about **Cloud & DevOps**
+- ☁️ Passionate about **Cloud & DevOps Engineering**
 - 🚀 Preparing for **CKA & KCNA Certifications**
-- 🔧 Focused on **Containerization & Orchestration**
-- 📈 Goal: Become a **DevOps / Cloud Engineer abroad**
+- 🔧 Skilled in **Containerization & Orchestration**
+- 🌍 Goal: Work as a **DevOps Engineer internationally**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 DevOps & Cloud
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github" />
 </p>
 
-### ⚙️ Core Skills
-- Containerization (Docker)
-- Container Orchestration (Kubernetes)
-- Cloud Computing (AWS)
-- CI/CD Fundamentals
-- Linux System Administration
+---
+
+## ⚙️ Core Skills
+
+- 🐳 Docker (Containerization)
+- ☸️ Kubernetes (Orchestration)
+- ☁️ AWS Cloud (EC2, S3, IAM, VPC)
+- 🔁 CI/CD Fundamentals
+- 🐧 Linux Administration
 
 ---
 
@@ -40,34 +50,34 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawoodjan-spectheme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawoodjan-spec&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 🧠 Currently Learning
 
-- Kubernetes Advanced Concepts (CKA Level)
-- Networking & Security in Kubernetes
-- AWS Core Services (EC2, S3, IAM, VPC)
+- Advanced Kubernetes (CKA Level)
+- Kubernetes Networking & Security
+- AWS Core Services
 - Real-world DevOps Projects
 
 ---
 
-## 📌 Featured Goals
+## 🎯 2026 Goals
 
-- ✅ Crack **CKA Exam**
+- ✅ Crack **CKA Certification**
 - ✅ Earn AWS Certifications
-- 🌍 Land an **international DevOps role**
-- 💼 Build strong Fiverr & freelance profile
+- 🌍 Get an **international DevOps role**
+- 💼 Build strong freelance presence
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/dawood-jan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Dawood%20Jan-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
