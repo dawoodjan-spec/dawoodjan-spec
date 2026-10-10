@@ -58,15 +58,13 @@
 
 - Advanced Kubernetes (CKA Level)
 - Kubernetes Networking & Security
-- AWS Core Services
 - Real-world DevOps Projects
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ Crack **CKA, KCNA AND AWS CCP Certifications**
-- ✅ Earn AWS Certifications
+- ✅ Crack **CKA, AND GCP Associate Cloud Engineer Certifications**
 
 ---
 
