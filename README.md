@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dawood Jan</h1>
+<h1 align="center">Hi, I'm Dawood Jan</h1>
 <h3 align="center">DevOps &amp; Release Engineer · KCNA Certified · AWS · Google Cloud · Kubernetes</h3>
 
 <p align="center">
@@ -13,18 +13,18 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🏢 **DevOps & Release Engineer** at Quantum Synergy Solutions, running production servers, CI/CD and releases for **four live web and mobile products**
-- 🔁 Built automated deployments where every merge to `main` ships only after tests pass, with a database backup, health checks and **automatic rollback**
-- 🔐 Hardened production Linux servers: firewall, fail2ban, SSH, security headers, secret scanning
-- 📱 Ship Android releases through Expo EAS and Google Play
-- 🎓 BS Software Engineering, Riphah International University (2022–2026)
-- 👨‍🏫 DevOps & cloud tutor on Fiverr (50+ one-on-one sessions)
+-  **DevOps & Release Engineer** at Quantum Synergy Solutions, running production servers, CI/CD and releases for **four live web and mobile products**
+-  Built automated deployments where every merge to `main` ships only after tests pass, with a database backup, health checks and **automatic rollback**
+-  Hardened production Linux servers: firewall, fail2ban, SSH, security headers, secret scanning
+-  Ship Android releases through Expo EAS and Google Play
+-  BS Software Engineering, Riphah International University (2022–2026)
+-  DevOps & cloud tutor on Fiverr (50+ one-on-one sessions)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,linux,ubuntu,nginx,postgres,githubactions,git,bash,py&perline=7" alt="Docker, Kubernetes, AWS, GCP, Terraform, Linux, Ubuntu, nginx, PostgreSQL, GitHub Actions, Git, Bash, Python" />
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it shows |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dawoodjan-spec&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
@@ -63,12 +63,12 @@
 
 ---
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 - **Ansible**: describing servers as code
 - **Advanced Kubernetes** (CKA level): networking and security
 
-## 🎯 Goals
+##  Goals
 
 - Certified Kubernetes Administrator (**CKA**)
 - Google Cloud **Associate Cloud Engineer**
