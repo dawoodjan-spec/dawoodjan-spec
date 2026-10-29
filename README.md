@@ -64,11 +64,5 @@
 ---
 
 ##  Currently Learning
+- **Advanced Kubernetes** : networking and security
 
-- **Ansible**: describing servers as code
-- **Advanced Kubernetes** (CKA level): networking and security
-
-##  Goals
-
-- Certified Kubernetes Administrator (**CKA**)
-- Google Cloud **Associate Cloud Engineer**
