@@ -21,7 +21,7 @@
 -  Ship Android releases through Expo EAS and Google Play
 -  BS Software Engineering, Riphah International University (2022–2026)
 -  DevOps & cloud tutor on Fiverr (50+ one-on-one sessions)
-
+<div><a href="https://cloud.layer5.io/user/88b46ff1-58e5-49a8-a763-81ba2a63b9a8?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 ---
 
 ##  Tech Stack
